@@ -1,0 +1,128 @@
+@font-face {
+	font-family: 'Outfit';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 100;
+	src: url('./assets/fonts/Outfit/outfit-v6-latin-100.eot');
+	src: local(''),
+		url('./assets/fonts/Outfit/outfit-v6-latin-100.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/Outfit/outfit-v6-latin-100.woff2') format('woff2'),
+		url('./assets/fonts/Outfit/outfit-v6-latin-100.woff') format('woff'),
+		url('./assets/fonts/Outfit/outfit-v6-latin-100.ttf') format('truetype'),
+		url('./assets/fonts/Outfit/outfit-v6-latin-100.svg#Outfit') format('svg');
+}
+
+@font-face {
+	font-family: 'Outfit';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 200;
+	src: url('./assets/fonts/Outfit/outfit-v4-latin-200.eot');
+	src: local(''),
+		url('./assets/fonts/Outfit/outfit-v4-latin-200.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-200.woff2') format('woff2'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-200.woff') format('woff'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-200.ttf') format('truetype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-200.svg#Outfit') format('svg');
+}
+
+@font-face {
+	font-family: 'Outfit';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 400;
+	src: url('./assets/fonts/Outfit/outfit-v4-latin-regular.eot');
+	src: local(''),
+		url('./assets/fonts/Outfit/outfit-v4-latin-regular.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-regular.woff2') format('woff2'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-regular.woff') format('woff'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-regular.ttf') format('truetype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-regular.svg#Outfit')
+			format('svg');
+}
+
+@font-face {
+	font-family: 'Outfit';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 600;
+	src: url('./assets/fonts/Outfit/outfit-v4-latin-600.eot');
+	src: local(''),
+		url('./assets/fonts/Outfit/outfit-v4-latin-600.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-600.woff2') format('woff2'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-600.woff') format('woff'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-600.ttf') format('truetype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-600.svg#Outfit') format('svg');
+}
+
+@font-face {
+	font-family: 'Outfit';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 700;
+	src: url('./assets/fonts/Outfit/outfit-v4-latin-700.eot');
+	src: local(''),
+		url('./assets/fonts/Outfit/outfit-v4-latin-700.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-700.woff2') format('woff2'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-700.woff') format('woff'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-700.ttf') format('truetype'),
+		url('./assets/fonts/Outfit/outfit-v4-latin-700.svg#Outfit') format('svg');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 400;
+	src: url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.eot');
+	src: local(''),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.woff2')
+			format('woff2'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.woff')
+			format('woff'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.ttf')
+			format('truetype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-regular.svg#OpenSans')
+			format('svg');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 600;
+	src: url('./assets/fonts/OpenSans/open-sans-v28-latin-600.eot');
+	src: local(''),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-600.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-600.woff2') format('woff2'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-600.woff') format('woff'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-600.ttf')
+			format('truetype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-600.svg#OpenSans')
+			format('svg');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	font-style: normal;
+	font-weight: 700;
+	src: url('./assets/fonts/OpenSans/open-sans-v28-latin-700.eot');
+	src: local(''),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-700.eot?#iefix')
+			format('embedded-opentype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-700.woff2') format('woff2'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-700.woff') format('woff'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-700.ttf')
+			format('truetype'),
+		url('./assets/fonts/OpenSans/open-sans-v28-latin-700.svg#OpenSans')
+			format('svg');
+}

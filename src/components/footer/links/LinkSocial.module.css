@@ -1,0 +1,9 @@
+.social {
+	display: flex;
+	align-self: flex-start;
+}
+
+.image {
+	width: 28px;
+	height: 28px;
+}
