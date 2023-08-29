@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 340px;
+}
+
+.header {
+    font-family: "Outfit", sans-serif;
+    line-height: 65px;
+    color: #fff;
+    font-size: 50px;
+    margin-top: 50px;
+
+
+}
+
+.description {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+
+}
+
+.textContainer {
+    margin-top: 60px;
+    z-index: 10;
+    padding: 0 20px
+}
+
+.image {
+    position: absolute;
+    width: auto;
+    min-width: 100vw;
+    height: 430px;
+}

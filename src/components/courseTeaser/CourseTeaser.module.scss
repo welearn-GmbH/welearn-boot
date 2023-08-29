@@ -1,0 +1,79 @@
+.container {
+    background-color: white;
+    height: 268px;
+    width: 320px;
+    box-shadow: 1.5px 2px 5px lightgrey;
+    position: relative;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.img {
+
+    width: 100%;
+    height: 180px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.textContainer {
+    display: flex;
+    padding: 10px;
+    flex: 1;
+    flex-direction: column;
+}
+
+.header {
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 4px;
+    line-height: 20.16px;
+
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.bottomLine {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 11.5px;
+    width: 92%;
+}
+
+.favorite {
+    width: 28px;
+    height: 28px;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 8px lightgrey;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.trainer {
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #606060;
+}
+
+.superCourse {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}

@@ -1,0 +1,121 @@
+.blur {
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #1D1E1F4D;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    width: 60%;
+}
+
+.imageContainer {
+    width: 100%;
+    height: 500px;
+    background-color: red;
+    position: relative;
+}
+
+.closePosition {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+}
+
+.trailerPosition {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.textContainer {
+    padding: 37px 40px 32px 32px;
+}
+
+.header {
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30.24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.favButton {
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 8px lightgrey;
+    font-size: 28px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.descriptionHeader {
+    padding-top: 20px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+
+.description {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.readMore {
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: underline;
+    z-index: 200;
+}
+
+.bottomContainer {
+    margin-top: 32px;
+}
+
+.trainerContainer {
+    font-family: "Outfit", sans-serif;
+    flex-direction: column;
+    display: flex;
+}
+
+.trainerHeader {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1D1E1F;
+    padding-bottom: 10px;
+}
+
+.trainerList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px
+}
+
+.trainerImg {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin-right: 10px;
+    border-radius: 200px;
+}
